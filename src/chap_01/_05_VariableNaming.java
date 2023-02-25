@@ -32,5 +32,6 @@ public class _05_VariableNaming
 
         // 절대 변하지 않는 상수는 대문자로
         final String CODE = "KR";
+
     }
 }
